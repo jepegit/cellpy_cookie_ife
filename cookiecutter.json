@@ -1,5 +1,5 @@
 {
-    "project_name": "cellpy_project",
+    "project_name": "IFE",
     "session_id": "experiment_001",
     "author_name": "Jan Petter Maehlen",
     "date": "{% now 'local' %}",
